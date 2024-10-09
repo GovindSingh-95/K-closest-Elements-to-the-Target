@@ -9,4 +9,5 @@
 <p>
 <br>1) The Target Element may or may not be present in the Array.<br>
 <br>2) Thus we'll use the LowerBound concept to find the minimum possible indexof the Target.As, lowerbounds tells the index just greater or equal to target (arr[idx]>=target) <br>
+<br>3) store this index in <br>
 </p>
